@@ -30,4 +30,4 @@ I am currently immersed in the ancient arts of predicting destinies **(Machine L
 </div>
 
 #### The Scroll of My Chivalrous Deeds
-![Adin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinnhd&show_icons=true&theme=transparent)
+![Adin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adinnhd&show_icons=true&theme=slateorange)
