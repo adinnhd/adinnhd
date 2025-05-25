@@ -1,4 +1,4 @@
-![greetings](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtnOGkzd3B0eWxsMXg5azBiMXJtMGI3bG9idTl4YXV5c2JnZG1pcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wgTeZEdqsQmX1isNqB/giphy.gif)
+![greetings](img/knight.gif)
 
 # Greetings, noble soul! 🛡️ Your journey has led you here. 👋
 
