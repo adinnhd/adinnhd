@@ -1,4 +1,6 @@
-## Hi there 👋
+![greetings](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtnOGkzd3B0eWxsMXg5azBiMXJtMGI3bG9idTl4YXV5c2JnZG1pcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wgTeZEdqsQmX1isNqB/giphy.gif)
+
+# Greetings, noble soul! 🛡️ Your journey has led you here. 👋
 
 <!--
 **adinnhd/adinnhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Welcome to my digital realm 🏰 
+I am **M. Alauddin Nuurul Hudaa**, though many call me **Adin**.
+I am currently immersed in the ancient arts of predicting destinies **(Machine Learning)** 🤖, weaving digital tapestries for the realm **(Web Development)** 🌐, and deciphering the scrolls of grand data **(Data Science)** 📊. For these endeavors, I wield: The Serpent's Tongue **(Python)** 🐍, The Magician's Orb **(Streamlit)** 🚀, The Blueprint of Structures **(HTML)** 📝, The Artisan's Pigments **(CSS)** 🎨, and The Enchanter's Spells **(JavaScript)** ⚡.
