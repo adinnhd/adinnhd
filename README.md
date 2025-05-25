@@ -1,4 +1,4 @@
-![greetings](img/knight.gif)
+<img src="img/knight.gif" alt="greetings" width="200">
 
 # Greetings, noble soul! 🛡️ Your journey has led you here. 👋
 
