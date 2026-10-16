@@ -34,3 +34,5 @@ I'm interested in **Machine Learning, Data Science, and Web Development**. I enj
 * 🌱 Continuously learning about machine learning, software development, and data
 * 💡 Interested in turning ideas and data into useful applications
 * 🤝 Open to collaboration and learning opportunities
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=adinnhd&hide_title=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=adinnhd&hide_title=true&include_all_commits=true&theme=nord)
